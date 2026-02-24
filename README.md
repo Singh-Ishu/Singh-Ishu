@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hey, I'm Ishaan Singh<br>🚀 About Me<br>🏫 Computer Science Engineering student at VIT Chennai (2nd Year).<br>💻 Passionate about Web Development, Machine Learning/AI, and Game Dev.<br>🎨 Skilled in Web Graphics, creating interactive and visually appealing websites.
+👋 Hey, I'm Ishaan Singh<br>🚀 About Me<br>💻 Passionate about Web Development, Machine Learning/AI, and Game Dev.<br>🎨 Skilled in Web Graphics, creating interactive and visually appealing websites.
 
 ## 🌐 Socials:
 
